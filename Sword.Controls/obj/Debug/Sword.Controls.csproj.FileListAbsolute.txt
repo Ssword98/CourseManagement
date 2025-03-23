@@ -1,0 +1,15 @@
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.csproj.AssemblyReference.cache
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\bin\Debug\Sword.Controls.dll
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\bin\Debug\Sword.Controls.pdb
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Instrument.g.cs
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls_MarkupCompile.cache
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls_MarkupCompile.lref
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Instrument.baml
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.g.resources
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.Properties.Resources.resources
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.csproj.GenerateResource.cache
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.csproj.CoreCompileInputs.cache
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.dll
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\Sword.Controls.pdb
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\SkeletonScreen.g.cs
+D:\ProgramData\VS Project\Zhaoxi.CourseManagement\Sword.Controls\obj\Debug\SkeletonScreen.baml
