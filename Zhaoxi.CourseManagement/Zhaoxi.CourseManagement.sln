@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhaoxi.CourseManagement", "Zhaoxi.CourseManagement.csproj", "{BDB800D4-CCEF-4265-8E84-05F72282AD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB800D4-CCEF-4265-8E84-05F72282AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB800D4-CCEF-4265-8E84-05F72282AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB800D4-CCEF-4265-8E84-05F72282AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB800D4-CCEF-4265-8E84-05F72282AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A8DC13-DB95-46E9-A947-BA813C301F92}
+	EndGlobalSection
+EndGlobal
